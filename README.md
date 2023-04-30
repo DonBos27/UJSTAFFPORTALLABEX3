@@ -6,6 +6,6 @@ database.
 Design inspired by UJ (Ulink)
 
 
-- • Create an ASP application with the various controls has shown in Figure 1.
-- • Connect application to a MySQL database from a C# application.
-- • Create class libraries for both data layer and the business logic layer.
+-  Create an ASP application with the various controls has shown in Figure 1.
+-  Connect application to a MySQL database from a C# application.
+-  Create class libraries for both data layer and the business logic layer.
